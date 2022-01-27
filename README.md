@@ -1,5 +1,5 @@
 # PortScanner
-## A basic [Port Scanner](https://I3L4CK-H4CK3l2.github.io/PortScanner/) using Python v3
+## A basic Port Scanner using Python v3
 
 - **Python**
     - Install Python from [here](https://www.python.org/).
