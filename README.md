@@ -1,10 +1,10 @@
 # PortScanner
 ## A basic [Port Scanner](https://I3L4CK-H4CK3l2.github.io/PortScanner/) using Python v3
 
-- **Python** `>= v2.7.0`
+- **Python**
     - Install Python from [here](https://www.python.org/).
 
-- **Pip** `>= v9.0.1`
+- **Pip**
     - Install pip from [here](https://pip.pypa.io/en/stable/installing/).
 
 ## How to run? :rocket:
