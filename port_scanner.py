@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python
 'coded by l314ck_h4ck3l2'
 
 import os
