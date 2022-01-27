@@ -24,11 +24,6 @@ git clone https://github.com/I3L4CK-H4CK3l2/PortScanner.git
 ```ps 
 pip install socket
 ```
-#### Install virtual environment 
-```ps 
-pip install virtualenv
-```
-
 ### Usage
 #### In Windows
 ```ps 
