@@ -6,7 +6,6 @@
 
 - **Pip**
     - Install pip from [here](https://pip.pypa.io/en/stable/installing/).
-
 ## How to run? :rocket:
 ### Install PortScanner
 #### In Windows
